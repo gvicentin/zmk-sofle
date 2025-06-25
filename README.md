@@ -7,7 +7,7 @@ The Sofle V2 Wireless uses a Nice!Nano microcontroller and runs the ZMK firmware
 ## Default keymap
 
 The default keymap of this keyboard can be found here:
-![Default Keymap](./keymap-drawer/sofle.svg)
+![Default Keymap](./keymap-drawer/eyelash_sofle.svg)
 
 ## Flashing the Sofle V2
 
